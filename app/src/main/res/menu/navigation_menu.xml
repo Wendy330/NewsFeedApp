@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Log in"
+        android:id="@+id/nav_item_login"
+        android:icon="@drawable/inbox"/>
+
+    <item android:title="Log out"
+        android:id="@+id/nav_item_logout"
+        android:icon="@drawable/sent"/>
+
+    <item android:title="Favourites"
+        android:id="@+id/nav_item_favourites"
+        android:icon="@drawable/draft"/>
+
+    <item android:title="Sites">
+        <menu>
+            <item
+                android:title="ETonline"
+                android:id="@+id/etOnline"
+                android:icon="@drawable/spam"/>
+            <item
+                android:title="iTunes"
+                android:id="@+id/itunes"
+                android:icon="@drawable/bin"/>
+        </menu>
+    </item>
+
+    <!--<group android:id="@+id/group_settings_id">-->
+
+        <!--<item android:title="Settings"-->
+            <!--android:icon="@drawable/settings"/>-->
+    <!--</group>-->
+</menu>

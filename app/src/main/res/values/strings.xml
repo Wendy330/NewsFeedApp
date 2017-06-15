@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LOVE MUSIC</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="fragment_one">One</string>
+    <string name="fragment_two">Two</string>
+    <string name="fragment_three">Three</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle1">Discover new songs</string>
+    <string name="backdrop_subtitle2">Follow latest news</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+
+</resources>
